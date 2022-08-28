@@ -8,7 +8,7 @@ Faire tourner le back : `json-server --w src/assets/db.json --port 3004`
 
 #
 
-Les étapes pour la "country app" :
+Les étapes pour l'application :
 
 1. Router & Navigation
 2. Les images
